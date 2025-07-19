@@ -86,8 +86,8 @@ export default function TestPaymentPage() {
                             <ol className="list-decimal list-inside space-y-1 text-sm">
                                 <li>Create an order through the store frontend</li>
                                 <li>Go to Admin → Orders</li>
-                                <li>Click "Simulate Payment" on any unpaid order</li>
-                                <li>Check that the order status changes to "Paid"</li>
+                                <li>Click &quot;Simulate Payment&quot; on any unpaid order</li>
+                                <li>Check that the order status changes to &quot;Paid&quot;</li>
                                 <li>Verify the order appears as paid in the user orders page</li>
                             </ol>
                         </div>
